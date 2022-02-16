@@ -1,0 +1,7 @@
+In Python you can read data from every files by function 'open()'
+In Python you can close every file what file you had opened before by methons 'close()'
+In Python you can read word at all by methons 'read()'.Methons 'read()' will give you a long string.
+In Python you can cross absolute path and relative path to help Python find file that you want to use.
+In Python you can read data a line of by methons 'readlines'.
+In Python you can create list including every list in file by assignment
+In Python you can find whether there are data you miss by keyword 'in'
